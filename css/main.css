@@ -1,0 +1,27 @@
+form{
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: crimson;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+}
+
+.form input{
+    width: 90%;
+    height: 35px;
+    margin-top: 20px;
+    padding-left: 15px;
+    border-radius: 30px;
+    border: black;
+}
+
+select, button{
+    width: 50% !important;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
